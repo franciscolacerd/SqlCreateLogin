@@ -1,5 +1,5 @@
 # SqlCreateLogin
-TOOLS - Who to Sql Create Login
+TOOLS - How to Sql Create Login
 
 
 ```
