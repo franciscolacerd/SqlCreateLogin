@@ -1,4 +1,4 @@
-# SqlCreateLogin
+# Sql Create Login
 TOOLS - How to Sql Create Login
 
 
